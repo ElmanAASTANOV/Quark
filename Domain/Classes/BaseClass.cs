@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 using Quark.Domain.Abstractions;
 using Quark.Domain.Methods;
-using Quark.Domain.Parametrs;
+using Quark.Domain.Fields;
 
 namespace Quark.Domain.Classes
 {
@@ -14,8 +14,8 @@ namespace Quark.Domain.Classes
        //Fields
         protected string name;
         protected string rootName;
-        public List<
-        public List<BaseMethod> methods;
+        public List<BaseField> fields = new List<BaseField>();
+        public List<BaseMethod> methods = new List<BaseMethod>();
 
        //Constructors 
         public BaseClass(string Name,string RootName)

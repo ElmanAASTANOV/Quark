@@ -1,0 +1,11 @@
+C:\Projects\Trash\Quark\bin\Debug\netcoreapp2.0\Quark.deps.json
+C:\Projects\Trash\Quark\bin\Debug\netcoreapp2.0\Quark.runtimeconfig.json
+C:\Projects\Trash\Quark\bin\Debug\netcoreapp2.0\Quark.runtimeconfig.dev.json
+C:\Projects\Trash\Quark\bin\Debug\netcoreapp2.0\Quark.dll
+C:\Projects\Trash\Quark\bin\Debug\netcoreapp2.0\Quark.pdb
+C:\Projects\Trash\Quark\obj\Debug\netcoreapp2.0\Quark.csprojAssemblyReference.cache
+C:\Projects\Trash\Quark\obj\Debug\netcoreapp2.0\Quark.csproj.CoreCompileInputs.cache
+C:\Projects\Trash\Quark\obj\Debug\netcoreapp2.0\Quark.AssemblyInfoInputs.cache
+C:\Projects\Trash\Quark\obj\Debug\netcoreapp2.0\Quark.AssemblyInfo.cs
+C:\Projects\Trash\Quark\obj\Debug\netcoreapp2.0\Quark.dll
+C:\Projects\Trash\Quark\obj\Debug\netcoreapp2.0\Quark.pdb

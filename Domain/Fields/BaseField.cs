@@ -8,8 +8,8 @@ namespace Quark.Domain.Fields
     abstract class BaseField : IGetName
     {
        //Fields
-        private string name;
-        private string type;
+        protected string name;
+        protected string type;
 
        //Constructors
         public BaseField(string Type,string Name)
